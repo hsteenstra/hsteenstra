@@ -33,7 +33,7 @@ Code For ME is an education initiative focused on making high-quality computer s
 ### Classroom Computer Science Textbook
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hsteenstra/hsteenstra/main/textbook.png" width="420"/>
+  <img src="https://raw.githubusercontent.com/hsteenstra/hsteenstra/master/textbook.png" width="420"/>
 </p>
 
 A complete, beginner-focused textbook designed for teachers and students with no prior coding experience. Built to be used directly in classrooms, with structured lessons, guided practice, and real projects.
