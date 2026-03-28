@@ -1,43 +1,42 @@
-<!-- HEADER -->
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,100:e0e7ff&height=220&section=header&text=Harper%20Steenstra&fontSize=42&fontColor=111827&fontAlignY=38&desc=Developer%20%E2%80%A2%20Educator%20%E2%80%A2%20Founder&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbcfe8,50:f9a8d4,100:f472b6&height=240&section=header&text=Harper%20Steenstra&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Developer%20•%20Educator%20•%20Founder%20of%20Code%20For%20ME&descAlignY=60&animation=fadeIn" />
 </p>
 
----
-
 <p align="center">
-  <i>Designing accessible pathways into computer science education</i>
+  <b>Building real access to computer science education</b><br/>
+  <a href="https://codeforme.org">codeforme.org</a>
 </p>
 
 ---
 
 ## About
 
-I am a high school developer, educator, and founder of Code For ME, an initiative dedicated to expanding access to computer science education across Maine.
+I am a developer, educator, and founder of Code For ME, where I design and build systems that expand access to computer science education.
 
-After completing Harvard’s CS50, I began building curriculum, teaching students, and developing resources that make coding more approachable, structured, and scalable. My work focuses on turning technical knowledge into real opportunities for others.
+After completing Harvard’s CS50, I began developing full curriculum, teaching students, and writing textbooks to make coding structured, scalable, and accessible. I don’t just study computer science — I build programs that bring it into real classrooms.
 
 ---
 
 ## Code For ME
 
-Code For ME is a growing initiative focused on bringing high-quality computer science education into classrooms and communities.
+Code For ME is an education initiative focused on making high-quality computer science learning accessible to students and teachers across Maine.
 
 <p align="center">
-  <a href="https://codeforme.org">codeforme.org</a>
+  <a href="https://codeforme.org"><b>Explore the platform</b></a>
 </p>
 
 ---
 
 ## Featured Project
 
-### Computer Science Textbook for Classrooms
+### Classroom Computer Science Textbook
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x340?text=Code+For+ME+Textbook" width="70%" />
+  <img src="https://raw.githubusercontent.com/hsteenstra/hsteenstra/main/textbook.png" width="420"/>
 </p>
 
-A structured, beginner-friendly textbook designed specifically for teachers and students with little to no prior coding experience. This resource provides guided lessons, clear explanations, and project-based learning to help bring computer science into real classrooms.
+A complete, beginner-focused textbook designed for teachers and students with no prior coding experience. Built to be used directly in classrooms, with structured lessons, guided practice, and real projects.
 
 <p align="center">
   <a href="https://payhip.com/CodeForME">
@@ -49,21 +48,21 @@ A structured, beginner-friendly textbook designed specifically for teachers and 
 
 ## Programs
 
-Hands-on coding camps and learning experiences focused on:
+Hands-on learning experiences designed around real outcomes:
 
-- Python and foundational programming  
-- Web development  
-- Real-world project building  
+- Python and core programming concepts  
+- Web development and deployment  
+- Project-based learning  
 
 <p align="center">
   <a href="https://codeforme.org">
-    <b>View programs and register</b>
+    <b>View camps and programs</b>
   </a>
 </p>
 
 ---
 
-## Technical Work
+## Technical Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,cpp,firebase,gcp,azure,git" />
@@ -73,24 +72,23 @@ Hands-on coding camps and learning experiences focused on:
 
 ## Current Focus
 
-- Expanding Code For ME into more schools  
+- Scaling Code For ME into more schools  
 - Increasing access to structured STEM education  
-- Designing curriculum for beginner learners  
-- Teaching students to build meaningful projects  
+- Building curriculum that teachers can actually use  
+- Teaching students to create real-world projects  
 
 ---
 
 ## Contact
 
 <p align="center">
-  <a href="https://instagram.com/@harpersteenstra">Instagram</a> &nbsp;•&nbsp;
-  <a href="https://youtube.com/@CodeForME">YouTube</a> &nbsp;•&nbsp;
-  <a href="mailto:harpersteenstra@gmail.com">Email</a> &nbsp;•&nbsp;
-  <a href="https://codeforme.org">Website</a>
+  <a href="https://instagram.com/@harpersteenstra">Instagram</a> •
+  <a href="https://youtube.com/@CodeForME">YouTube</a> •
+  <a href="mailto:harpersteenstra@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=hsteenstra&icon=0&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=hsteenstra&icon=0&color=pink"/>
 </p>
